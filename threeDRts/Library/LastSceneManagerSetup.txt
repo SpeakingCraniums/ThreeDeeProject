@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/gravityTesting.unity
+- path: Assets/Scenes/gravityVR.unity
   isLoaded: 1
   isActive: 1
